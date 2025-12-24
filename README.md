@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Diego 👋
 
-<!--
-**diego75009/diego75009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack dev 👨‍💻  
+Turning ideas into working products.  
+Curious, hands-on, and always improving.
 
-Here are some ideas to get you started:
+### What I enjoy
+- Building things that actually work  
+- Solving problems and learning by doing  
+- Improving code and structure over time
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Reach me:  
+[LinkedIn](https://www.linkedin.com/in/diego-lacroix-dev) · [Portfolio](https://diego-lacroix.vercel.app)
